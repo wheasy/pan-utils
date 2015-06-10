@@ -1,0 +1,22 @@
+{
+  "name": "pan-utils",
+  "version": "1.0.0",
+  "description": "Provide some basic but practical function. Such as file monitoring, file operation, type judgment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheasy/pan-utils.git"
+  },
+  "keywords": [
+    "pandrojs"
+  ],
+  "author": "tick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wheasy/pan-utils/issues"
+  },
+  "homepage": "https://github.com/wheasy/pan-utils"
+}
