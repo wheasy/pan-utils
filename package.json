@@ -13,10 +13,17 @@
   "keywords": [
     "pandrojs"
   ],
-  "author": "tick",
+  "author": {
+    "name": "tick"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wheasy/pan-utils/issues"
   },
-  "homepage": "https://github.com/wheasy/pan-utils"
+  "homepage": "https://github.com/wheasy/pan-utils",
+  "readme": "提供一些基础但实用的方法。例如文件监控、文件操作、类型判断。\n\n主要服务于PandoraJS项目",
+  "readmeFilename": "readme.md",
+  "_id": "pan-utils@1.0.0",
+  "_shasum": "5270429c832c8b203e1eb50ab12e6c60143e14f3",
+  "_from": "pan-utils@"
 }
